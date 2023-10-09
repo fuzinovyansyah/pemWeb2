@@ -1,0 +1,12 @@
+.form {
+  display: flex;
+  flex-direction: row;
+}
+
+#bilanganPertama {
+  margin-right: 20px;
+}
+
+#button {
+  margin-top: 20px;
+}
